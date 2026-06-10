@@ -1,0 +1,6 @@
+To run project
+open terminal 
+install requirements 
+open bot.txt 
+  enter your open api and telegram bot keys
+then run bot.py
