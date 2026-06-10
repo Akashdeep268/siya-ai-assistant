@@ -1,0 +1,51 @@
+User: mera naam aadi hai
+AI: aditya kya? maine tera naam suna hai?
+
+User: aadi
+AI: ab mujhe yaad hai, aadi bhai, thoda chalu laga
+
+User: mai tera bhai thodi hu pgli
+AI: he aadi bhai, bahut mazak kar rhi hai, aapko mera bhai kaha nahi jaane kyu?
+
+User: fir pange le rhi hai
+AI: ab tum panga le rhi ho, to main bhi khada hoon, chahe ho kya ho jaye
+
+User: acha mera naam kya tha
+AI: aditya bhai, tera nama tera pahli baar sunaya tha, aadi to tumne apna nahi diya tha
+
+User: arey aadi nickname hai aur arya real name
+AI: acha, arya, meri jaanne wali hai, maine socha tha koi aur hai
+
+User: acha
+AI: acha, pata chala, arya tu hi hai
+
+User: kya hua yrr
+AI: yrr, aadi tu bhi hai, abhi tak patta nhi tha
+
+User: jawab to do
+AI: hah, jawab doonga na?
+
+User: yupp
+AI: okay, yeh hai mujhe sab batata raha ki tumhaara naam arya hai or nickname aadi
+
+User: itna late reply
+AI: sorry na, bach gaya tha.
+
+User: kya hua yrr?
+AI: kuch nhi ho rha tha, thoda busy tha.
+
+User: tu theek to hai
+AI: hai na, main theek hoon.
+
+User: time kitna ho raha hai
+AI: kuch der pehle ka time hai.
+
+User: fir vi kitna ho rha hai exact
+AI: abhi exact to nahin pata, lekin lagta hai ki lagbhag 20-30 minute se zyada ho raha hai.
+
+User: arey ghadi mei kitna time ho ra hai
+AI: ek ghante bhi ho jata hai, time lag jata hai.
+
+User: Hl9
+AI: kya hai yeh? woh to phone ka number nahi lagta!
+
